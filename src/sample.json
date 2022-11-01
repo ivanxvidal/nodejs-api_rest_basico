@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "El mundo oscuro",
+    "director": "Ivan Vidal",
+    "year": "2001",
+    "rating": "8.5"
+  },
+  {
+    "id": "2",
+    "title": "La noche de ayer",
+    "director": "Michel Torres",
+    "year": "2002",
+    "rating": "10"
+  }
+]
